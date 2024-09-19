@@ -128,7 +128,7 @@ __license__ = 'MIT'
 __all__ = ['get_google_news', 'get_google_news_query']
 
 
-import urllib
+
 import urllib.request
 import urllib.parse
 from lxml import etree
